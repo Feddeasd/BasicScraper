@@ -1,0 +1,1 @@
+globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/api/scrape/route"]={"moduleLoading":{"prefix":"/_next/"},"ssrModuleMapping":{},"edgeSSRModuleMapping":{},"clientModules":{},"entryCSSFiles":{"C:\\codigo\\test\\ml-scraper\\src\\":[],"C:\\codigo\\test\\ml-scraper\\src\\app\\api\\scrape\\route":[]},"rscModuleMapping":{},"edgeRscModuleMapping":{}}
